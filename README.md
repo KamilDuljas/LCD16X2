@@ -1,4 +1,1 @@
-#README#
-
-Project with configured LCD1602A
-Nucleo-L476RG
+Project with configured LCD1602A for Nucleo-L476RG
